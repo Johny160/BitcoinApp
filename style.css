@@ -1,0 +1,23 @@
+#container {
+    width: 270px;
+    height: 90px;
+    border: 1px solid #000;
+    background-color: #2f2f2f;
+    overflow: hidden;
+    border-radius: 3px;
+    color: #fefdfb;
+}
+
+table {
+    width: 100%;
+}
+
+#lastPrice {
+    width: 60%;
+    font-size: 30px;
+}
+
+#timeData {
+    color: #999;
+    font-size: 9px;
+}
